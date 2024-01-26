@@ -18,7 +18,7 @@ Il progetto è organizzato nei seguenti componenti principali:
    - L'interfaccia utente è integrata nel codice principale. Gli utenti vengono guidati attraverso la fornitura del proprio livello di abilità, luogo di allenamento e feedback sulla scheda generata.
 
 4. **Configurazione**
-   - Puoi regolare la configurazione iniziale, come il numero di generazioni e il tasso di mutazione, nel codice principale (`main.py`).
+   - Puoi regolare la configurazione iniziale, come il numero di generazioni e il tasso di mutazione, nel codice principale (`GYMGA.ipynb`).
 
 ### Istruzioni per l'Esecuzione
 
